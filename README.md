@@ -120,9 +120,8 @@ const yohanne = {
 │  ◈ VS Code         → Editor de código                │
 │                                                      │
 └──────────────────────────────────────────────────────┘
-```
-
 ---
+```
 
 ## `05 // BANCO DE PROJETOS`
 
@@ -131,22 +130,24 @@ const yohanne = {
 ### 🚀 Projetos em Destaque
 
 <a href="https://github.com/yohannek/logicaprog">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=yohannek&repo=logicaprog&theme=transparent&title_color=00F0FF&text_color=FFFFFF&icon_color=00F0FF&border_color=00F0FF">
+  <img src="https://img.shields.io/badge/📦%20LOGICAPROG-050505?style=for-the-badge&logo=github&logoColor=00F0FF">
 </a>
-
 <a href="https://github.com/yohannek/introweb">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=yohannek&repo=introweb&theme=transparent&title_color=00F0FF&text_color=FFFFFF&icon_color=00F0FF&border_color=00F0FF">
+  <img src="https://img.shields.io/badge/📦%20INTROWEB-050505?style=for-the-badge&logo=github&logoColor=00F0FF">
 </a>
 
-<br>
+<br/>
 
 <a href="https://github.com/yohannek/meusite">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=yohannek&repo=meusite&theme=transparent&title_color=00F0FF&text_color=FFFFFF&icon_color=00F0FF&border_color=00F0FF">
+  <img src="https://img.shields.io/badge/📦%20MEUSITE-050505?style=for-the-badge&logo=github&logoColor=00F0FF">
 </a>
 
-<a href="https://github.com/yohannek/meu-primeiro-app">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=yohannek&repo=meu-primeiro-app&theme=transparent&title_color=00F0FF&text_color=FFFFFF&icon_color=00F0FF&border_color=00F0FF">
+<!-- Descomente quando criar o 4º projeto -->
+<!--
+<a href="https://github.com/yohannek/NOME-DO-REPO">
+  <img src="https://img.shields.io/badge/📦%20NOME-DO-REPO-050505?style=for-the-badge&logo=github&logoColor=00F0FF">
 </a>
+-->
 
 </div>
 
@@ -200,59 +201,11 @@ STATUS: ███████████████████░░ 90%
 
 ---
 
-## `08 // ESTATÍSTICAS DO GITHUB`
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=yohannek&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&title_color=00F0FF&text_color=FFFFFF&icon_color=00F0FF&border_color=00F0FF">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yohannek&layout=compact&langs_count=8&theme=transparent&title_color=00F0FF&text_color=FFFFFF&border_color=00F0FF">
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=yohannek&theme=transparent&hide_border=false&border=00F0FF&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF&sideLabels=FFFFFF&dates=AAAAAA" width="70%">
-
-</div>
-
----
-
 ## `09 // ATIVIDADE NO GITHUB`
 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=yohannek&bg_color=00000000&color=00F0FF&line=00F0FF&point=FFFFFF&area=true&hide_border=true" width="100%">
-
-</div>
-
----
-
-## `10 // CONQUISTAS`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=yohannek&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%">
-
-</div>
-
----
-
-## `11 // SNAKE DE CONTRIBUIÇÕES`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/yohannek/yohannek/output/github-contribution-grid-snake-dark.svg" alt="Animação das contribuições do GitHub" width="100%">
-
-</div>
-
----
-
-## `12 // CONECTE-SE COMIGO`
-
-<div align="center">
-
-<a href="https://github.com/yohannek">
-<img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=00F0FF">
-</a>
 
 </div>
 
