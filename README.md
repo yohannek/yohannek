@@ -24,15 +24,15 @@
 
 ---
 
-## `01 // STATUS DO SISTEMA`
+<h2 align="center"><code><strong>STATUS DO SISTEMA</strong></code></h2>
 
 ```text
 ╔══════════════════════════════════════════════════════════╗
-║                 YOHANNE.OS // ONLINE                     ║
+║                 YOHANNEK // ONLINE                       ║
 ╠══════════════════════════════════════════════════════════╣
 ║                                                          ║
 ║  USUÁRIA     : Yohanne Karine                            ║
-║  FUNÇÃO      : Estudante & Desenvolvedora               ║
+║  FUNÇÃO      : Estudante & Desenvolvedora                ║
 ║  FOCO        : Desenvolvimento Web                       ║
 ║  STATUS      : ● ONLINE                                  ║
 ║  MODO        : APRENDIZADO / CRIAÇÃO                     ║
@@ -43,7 +43,8 @@
 
 ---
 
-## `02 // SOBRE MIM`
+<h2 align="center"><code><strong>SOBRE MIM</strong></code></h2>
+
 
 <div align="center">
 
@@ -86,7 +87,7 @@ const yohanne = {
 
 ---
 
-## `03 // TECNOLOGIAS`
+<h2 align="center"><code><strong>TECNOLOGIAS</strong></code></h2>
 
 <div align="center">
 
@@ -104,7 +105,7 @@ const yohanne = {
 
 ---
 
-## `04 // MINHA PILHA DE DESENVOLVIMENTO`
+<h2 align="center"><code><strong>MINHA PILHA DE DESENVOLVIMENTO</strong></code></h2>
 
 ```text
 ┌──────────────────────────────────────────────────────┐
@@ -120,10 +121,10 @@ const yohanne = {
 │  ◈ VS Code         → Editor de código                │
 │                                                      │
 └──────────────────────────────────────────────────────┘
----
 ```
 
-## `05 // BANCO DE PROJETOS`
+---
+<h2 align="center"><code><strong>BANCO DE PROJETOS</strong></code></h2>
 
 <div align="center">
 
@@ -142,18 +143,15 @@ const yohanne = {
   <img src="https://img.shields.io/badge/📦%20MEUSITE-050505?style=for-the-badge&logo=github&logoColor=00F0FF">
 </a>
 
-<!-- Descomente quando criar o 4º projeto -->
-<!--
-<a href="https://github.com/yohannek/NOME-DO-REPO">
-  <img src="https://img.shields.io/badge/📦%20NOME-DO-REPO-050505?style=for-the-badge&logo=github&logoColor=00F0FF">
+<a href="https://github.com/yohannek/meu-primeiro-app">
+  <img src="https://img.shields.io/badge/📦%20MEU%20PRIMEIRO%20APP-050505?style=for-the-badge&logo=github&logoColor=00F0FF">
 </a>
--->
 
 </div>
 
 ---
 
-## `06 // MISSÃO ATUAL`
+<h2 align="center"><code><strong>MISSÃO ATUAL</strong></code></h2>
 
 ```bash
 yohanne@github:~$ ./missao_atual.sh
@@ -179,7 +177,7 @@ STATUS: ███████████████████░░ 90%
 
 ---
 
-## `07 // PROTOCOLO DE APRENDIZADO`
+<h2 align="center"><code><strong>PROTOCOLO DE APRENDIZADO</strong></code></h2>
 
 <div align="center">
 
@@ -201,7 +199,7 @@ STATUS: ███████████████████░░ 90%
 
 ---
 
-## `09 // ATIVIDADE NO GITHUB`
+<h2 align="center"><code><strong>ATIVIDADE NO GITHUB</strong></code></h2>
 
 <div align="center">
 
@@ -211,7 +209,7 @@ STATUS: ███████████████████░░ 90%
 
 ---
 
-## `13 // REGISTRO DO SISTEMA`
+<h2 align="center"><code><strong>REGISTRO DO SISTEMA</strong></code></h2>
 
 ```text
 ╔══════════════════════════════════════════════════════════╗
@@ -234,7 +232,7 @@ STATUS: ███████████████████░░ 90%
 
 <div align="center">
 
-### `> CONEXÃO ESTABELECIDA`
+<h3 align="center"><code><strong>CONEXÃO ESTABELECIDA</strong></code></h3>
 
 **"Transformando ideias em código, um projeto de cada vez."**
 
